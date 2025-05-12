@@ -17,7 +17,7 @@ class Game():
         pygame.display.set_caption('Survivor')
         self.running=True
         self.load_image()
-        self.score=100
+        self.score=0
         
         # groups
         # self.all_sprites=pygame.sprite.Group()
